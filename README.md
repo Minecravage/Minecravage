@@ -1,4 +1,4 @@
-# Hey
+# Et toi !
 
 ### 🇫🇷
 Bonjour, je suis Minecravage, un petit développeur belge pas très fort, pas très compétent, mais très motivé à apprendre par passion. Je baigne dans la culture geek depuis ma plus tendre enfance, entre PsX et anime (même si j'en connais aucun j'aime bien). J'ai commencé a coder des bots a 11 ans, et je ne compte pas m'arrêter la ! Après 2 jeu a mon actif (publié a 20 personnes complètement folles mais c'est quand même 20 personnes ^^), je suis un quête d'organisation dans mes programmes et de reconnaissence de ceux-ci

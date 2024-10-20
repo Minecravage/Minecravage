@@ -1,7 +1,5 @@
-# It's me !
+# C'est moi !
 
-Hey ! I'm minecravage, a Belgian developer who codes useless stuff, but it keeps me busy, so I'm posting some of my proudest inventions here.
-
-| ---------|--------|
-| Language | French |
-| Programming Language | Python |
+Hey ! Je suis Minecravage, un petit développeur belge qui code des truc dont tout le monde s'en fout, mais ça m'occupe, alors je continue.
+Ici, je taffe sur un petit projet nommé Double Wings.
+Retrouve le sur mon compte

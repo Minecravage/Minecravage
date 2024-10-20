@@ -12,8 +12,3 @@ Hello, I'm Minecravage, a little Belgian developer, not very strong, not very co
 
 ## J'aimerai avoir les compétences / I would skill
 <br /> <img src="https://skillicons.dev/icons?i=discord,py,vscode,bots,discordpy" />
-
-| Projet            | Langage   | Statut       |
-|-------------------|-----------|--------------|
-| Jeu "Double Wings" | Unity, C# | En développement |
-| Site portfolio     | HTML, CSS | Terminé      |
